@@ -6,3 +6,4 @@ itsdangerous
 playwright
 flask
 gunicorn
+pandas
