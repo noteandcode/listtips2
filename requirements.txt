@@ -1,0 +1,8 @@
+Flask==3.1.0
+Werkzeug
+Jinja2==3.1.2
+MarkupSafe==2.1.1
+itsdangerous
+playwright
+flask
+gunicorn
